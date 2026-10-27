@@ -1,0 +1,5 @@
+requests>=2.31
+python-dotenv>=1.0
+pandas>=2.1
+matplotlib>=3.8
+lifelines>=0.29

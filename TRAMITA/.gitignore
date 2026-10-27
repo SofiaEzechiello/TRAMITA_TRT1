@@ -1,0 +1,7 @@
+.env
+.venv/
+data/
+resultados/
+__pycache__/
+.idea/
+.DS_Store
